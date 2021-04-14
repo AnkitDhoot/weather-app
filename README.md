@@ -5,4 +5,3 @@ It's a weather application works on a weather api using js.
 
 #### `Javascript`
 
-#### `Netlify`
